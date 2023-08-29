@@ -24,6 +24,12 @@
 
 ## Description
 
+HELLO SIR,
+  I WAS UNABLE TO INTEGRATE POSTGRESQL IN THIS PROJECT SO THAT IS WHY I AM NOT HOSTING THIS PROJECT SO YOU CAN TEST THE API ACCORDINGLY.
+
+          THANK YOU FOR THIS AMAZING OPPRTUNITY
+
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
