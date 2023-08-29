@@ -1,0 +1,28 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Message {
+  id: Float!
+  content: String!
+  senderId: Float!
+  receiverId: Float!
+}
+
+type Query {
+  getMessage: [Message!]!
+}
+
+type Mutation {
+  createMessage(input: CreateMessageInput!): Message!
+}
+
+input CreateMessageInput {
+  content: String!
+  senderId: Float!
+  receiverId: Float!
+}
+
+type Subscription {
+  newMessage: Message!
+}
